@@ -6,6 +6,7 @@
 
 ## Table of contents
 
+edited by vvk
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
